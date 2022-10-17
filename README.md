@@ -1,5 +1,7 @@
-# Getting Started with Create React App
+# How React Work (Updated)
 
+
+## I will go your Personal Website [Sayed Munshi](https://smunshi.com/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
